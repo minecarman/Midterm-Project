@@ -1,4 +1,4 @@
-### **Student Management System**
+# **Student Management System**
 ↓↓↓↓↓LINK TO THE WEBSITE↓↓↓↓↓
 
 https://minecarman.github.io/student-management-system/
